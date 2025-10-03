@@ -1,0 +1,62 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/1388026885/photo/pink-girly-birthday-princess-ballet-background-or-girl-mothers-day-glitter.webp?a=1&b=1&s=612x612&w=0&k=20&c=OPSDJ2G3Rz_lDCd50BnW9tz8xgZrZgZp_QHGnNhzXNM=');
+    background-size: cover; 
+}
+
+#first{
+    height: 100px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+
+}
+h1{
+    padding-left: 30px;
+}
+#th{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    align-items: center;
+    padding-right: 35px;
+    font-weight: bold;
+    font-size: larger;
+    text-transform: capitalize;
+}
+/* .sec{ */
+    /* text-transform: capitalize; */
+
+h3{
+    padding-left: 500px;
+    font-weight: lighter;
+    color: palevioletred;
+}
+#jai{
+    padding-left: 475px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(231, 31, 98);
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#boxx{
+    display: flex;
+    justify-content: space-evenly
+}
+
+p{
+    width: 450px;
+    color: palevioletred;
+}
+#za{
+    display: flex;
+    justify-content: center;
+}
+
